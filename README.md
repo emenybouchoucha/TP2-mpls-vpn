@@ -24,7 +24,7 @@ Ce dépôt regroupe la configuration et la documentation d'un TP de réseaux por
 
 ---
 
-## 🚀 Commandes de Validation Clés (pour Screen Record)
+## 🚀 Commandes de Validation Clés
 
 ### 1. Sur le routeur PE (`sp1`) : Vérification de la VRF
 ```text
